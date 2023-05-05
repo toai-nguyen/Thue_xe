@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<motorbikes>
+    <motorbike>
+        <id>1</id>
+        <license>453456</license>
+        <model>Honda AirBlade</model>
+        <rentDate>0000-01-01</rentDate>
+        <rentName></rentName>
+        <status>false</status>
+    </motorbike>
+    <motorbike>
+        <id>2</id>
+        <license>2435345</license>
+        <model>Vision 2019</model>
+        <rentDate>2023-12-13</rentDate>
+        <rentName>Nguyen Van C</rentName>
+        <status>true</status>
+    </motorbike>
+    <motorbike>
+        <id>3</id>
+        <license>4532543</license>
+        <model>Honda vawe</model>
+        <rentDate>2021-12-09</rentDate>
+        <rentName>Nguyen A</rentName>
+        <status>true</status>
+    </motorbike>
+    <motorbike>
+        <id>4</id>
+        <license>23143</license>
+        <model>MotorGP 201</model>
+        <rentDate>0000-01-01</rentDate>
+        <rentName></rentName>
+        <status>false</status>
+    </motorbike>
+    <motorbike>
+        <id>5</id>
+        <license>345356</license>
+        <model>Honda Vision</model>
+        <rentDate>2023-01-01</rentDate>
+        <rentName>Nguyen Van A</rentName>
+        <status>true</status>
+    </motorbike>
+    <motorbike>
+        <id>6</id>
+        <license>32412</license>
+        <model>MB 2011</model>
+        <rentDate>0000-01-01</rentDate>
+        <rentName></rentName>
+        <status>false</status>
+    </motorbike>
+</motorbikes>
